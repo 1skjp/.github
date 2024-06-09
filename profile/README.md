@@ -1,6 +1,6 @@
 This is a private organisation owned by m1sk9. It is not managed by any group. 
 
-This organisation is a private repository to which I have transferred a private repository that I have not made public under my personal account. (e.g., no longer developed, university assignments, etc.).
+This organisation is a private repository to which I have transferred a private repository that I have not made public under my personal account ([@m1sk9](https://github.com/m1sk9)). (e.g., no longer developed, university assignments, etc.).
 
 Most repositories are archived and unmanaged. They are unlikely to see the light of day in the future.
 
